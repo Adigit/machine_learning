@@ -1,0 +1,69 @@
+Topics in python
+
+- Introduction to python
+
+- Python programing components
+   - Literals ---> Datatypes
+	- Constants
+	- Variables
+	- Identifiers
+	- Reserved words
+	- Staements and expression
+	- Blocks and indentation
+	- Comments
+	
+- Inout and outpgut function
+- Interger data type
+	* Types of operations we can perform on integers
+		1. Arithmetic operations
+		2. Comparision oerators > , < ,>= , <=
+		3. Equality operators
+		4. Logical operators
+		5. Bitwise
+		6. Assignment operators
+		7. Identity operators
+		
+- Type casting
+- float data type
+- complex data type
+
+-  strings 
+	* Propertities of string
+	* Concatination
+	* Repetition
+	* Identity
+	* Membership operators
+	* String methods
+	
+	
+- lists
+	* Creation of list
+	* List properties
+	* Nested List
+	* Methods of list
+	* Shallow and Deep copy
+	* for loop
+	* List comprehension
+	
+- Tuple
+	* Creating a tuple
+	* Properties of tuple
+	* Methods of tuple
+	* Tuple packing and unpacking
+	
+- Dictionary
+	* Why dict
+	* Properties of dic
+	* Creating a dict
+	* Methods of dict
+	
+	
+- Set
+	* basics
+	
+- Conditional statements
+	* if 
+	* if  else
+	* if elif else
+	
+	
